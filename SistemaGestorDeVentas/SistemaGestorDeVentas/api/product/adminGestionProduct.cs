@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace SistemaGestorDeVentas.api.product
 {
-    public partial class productMenu : Form
+    public partial class adminGestionProduct : Form
     {
-        public productMenu()
+        public adminGestionProduct()
         {
             InitializeComponent();
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }

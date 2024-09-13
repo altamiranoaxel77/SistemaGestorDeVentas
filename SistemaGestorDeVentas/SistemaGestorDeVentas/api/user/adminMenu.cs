@@ -16,5 +16,15 @@ namespace SistemaGestorDeVentas.api.user
         {
             InitializeComponent();
         }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void adminMenu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

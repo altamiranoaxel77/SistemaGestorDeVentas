@@ -81,11 +81,11 @@
     <Compile Include="api\category\service.cs" />
     <Compile Include="api\product\controller.cs" />
     <Compile Include="api\product\dao.cs" />
-    <Compile Include="api\product\productMenu.cs">
+    <Compile Include="api\product\adminGestionProduct.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="api\product\productMenu.Designer.cs">
-      <DependentUpon>productMenu.cs</DependentUpon>
+    <Compile Include="api\product\adminGestionProduct.Designer.cs">
+      <DependentUpon>adminGestionProduct.cs</DependentUpon>
     </Compile>
     <Compile Include="api\product\service.cs" />
     <Compile Include="api\user\adminMenu.cs">
@@ -122,6 +122,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="api\auth\registerView.resx">
       <DependentUpon>registerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="api\product\adminGestionProduct.resx">
+      <DependentUpon>adminGestionProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="api\user\adminMenu.resx">
+      <DependentUpon>adminMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
