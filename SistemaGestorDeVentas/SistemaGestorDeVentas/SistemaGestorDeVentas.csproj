@@ -87,6 +87,7 @@
     <Compile Include="api\product\adminGestionProduct.Designer.cs">
       <DependentUpon>adminGestionProduct.cs</DependentUpon>
     </Compile>
+    <Compile Include="api\product\Product.cs" />
     <Compile Include="api\product\service.cs" />
     <Compile Include="api\user\adminMenu.cs">
       <SubType>Form</SubType>
@@ -122,6 +123,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="api\auth\registerView.resx">
       <DependentUpon>registerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="api\cart\cartView.resx">
+      <DependentUpon>cartView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="api\product\adminGestionProduct.resx">
       <DependentUpon>adminGestionProduct.cs</DependentUpon>
