@@ -110,11 +110,11 @@
     <Compile Include="api\user\supervisorMenu.Designer.cs">
       <DependentUpon>supervisorMenu.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="paginaInicio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="paginaInicio.Designer.cs">
+      <DependentUpon>paginaInicio.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -133,6 +133,9 @@
     <EmbeddedResource Include="api\user\adminMenu.resx">
       <DependentUpon>adminMenu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="paginaInicio.resx">
+      <DependentUpon>paginaInicio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -141,6 +144,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -158,6 +162,12 @@
   <ItemGroup>
     <Folder Include="db\" />
     <Folder Include="middlewares\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %287%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %288%29.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

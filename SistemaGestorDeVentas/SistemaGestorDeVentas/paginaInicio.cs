@@ -8,21 +8,26 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemaGestorDeVentas.api.category
+namespace SistemaGestorDeVentas
 {
-    public partial class categoryMenu : Form
+    public partial class paginaInicio : Form
     {
-        public categoryMenu()
+        public paginaInicio()
         {
             InitializeComponent();
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void categoryMenu_Load(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }
