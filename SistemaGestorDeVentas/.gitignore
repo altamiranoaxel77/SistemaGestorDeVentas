@@ -5,5 +5,6 @@
 *.user
 *.tmp
 *.log
-obj/
-bin/
+SistemaGestorDeVentas/obj/
+SistemaGestorDeVentas/bin/
+SistemaGestorDeVentas/.vs/
