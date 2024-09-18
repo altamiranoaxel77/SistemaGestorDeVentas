@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemaGestorDeVentas.api.category
+namespace SistemaGestorDeVentas
 {
-    public partial class categoryMenu : Form
+    public partial class Form1 : Form
     {
-        public categoryMenu()
+        public Form1()
         {
             InitializeComponent();
         }

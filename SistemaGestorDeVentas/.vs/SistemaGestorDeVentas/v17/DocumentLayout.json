@@ -1,57 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\",
+  "WorkspaceRootPath": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\paginainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\paginainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\paginainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\paginainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\cart\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\taller de programacion 2\\proyecto integrador\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\cart\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\cart\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\cart\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\taller de programacion 2\\proyecto integrador\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\cart\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\cart\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\product\\admingestionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\taller de programacion 2\\proyecto integrador\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\product\\admingestionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\product\\admingestionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\product\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\taller de programacion 2\\proyecto integrador\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\product\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\product\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\taller de programacion 2\\proyecto integrador\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\product\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\taller de programacion 2\\proyecto integrador\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\product\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\product\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\product\\admingestionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|c:\\taller de programacion 2\\proyecto integrador\\sistemagestordeventas\\sistemagestordeventas\\sistemagestordeventas\\api\\product\\admingestionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\product\\admingestionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\auth\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\auth\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\auth\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\user\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\user\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\user\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\auth\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\auth\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\auth\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\auth\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\sistemagestordeventas\\api\\auth\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4808B15F-B3E1-4C8E-9CC4-67810DF1585A}|SistemaGestorDeVentas\\SistemaGestorDeVentas.csproj|solutionrelative:sistemagestordeventas\\api\\auth\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,44 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "paginaInicio.cs",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\paginaInicio.cs",
-              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\paginaInicio.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\paginaInicio.cs",
-              "RelativeToolTip": "SistemaGestorDeVentas\\paginaInicio.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAawCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T00:31:01.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "paginaInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\paginaInicio.cs",
-              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\paginaInicio.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\paginaInicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaGestorDeVentas\\paginaInicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T00:22:46.202Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "cartView.cs",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\cart\\cartView.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs",
+              "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs",
               "RelativeToolTip": "SistemaGestorDeVentas\\api\\cart\\cartView.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "cartView.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\cart\\cartView.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\cart\\cartView.cs [Dise\u00F1o]",
               "RelativeToolTip": "SistemaGestorDeVentas\\api\\cart\\cartView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T14:02:57.768Z",
@@ -120,92 +83,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "service.cs",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\service.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\service.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\service.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\service.cs",
+              "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\service.cs",
               "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:46:19.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\Product.cs",
-              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\Product.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\Product.cs",
-              "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:33:11.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "controller.cs",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\controller.cs",
-              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\controller.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\controller.cs",
-              "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:27:23.339Z"
+              "WhenOpened": "2024-09-13T13:46:19.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\Product.cs",
+              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\Product.cs",
+              "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\Product.cs",
+              "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:33:11.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "controller.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\controller.cs",
+              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\controller.cs",
+              "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\controller.cs",
+              "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:27:23.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "adminGestionProduct.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
               "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T13:13:51.646Z"
+              "WhenOpened": "2024-09-11T13:13:51.646Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminGestionProduct.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
+              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
+              "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
+              "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:22:17.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "adminGestionProduct.cs",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
-              "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
-              "RelativeToolTip": "SistemaGestorDeVentas\\api\\product\\adminGestionProduct.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:22:17.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "adminMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\user\\adminMenu.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\user\\adminMenu.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\user\\adminMenu.cs",
               "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\user\\adminMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\user\\adminMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaGestorDeVentas\\api\\user\\adminMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T13:56:52.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "registerView.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\auth\\registerView.cs",
               "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaGestorDeVentas\\api\\auth\\registerView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T13:45:06.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "registerView.cs",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\auth\\registerView.cs",
-              "ToolTip": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs",
+              "ToolTip": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\registerView.cs",
               "RelativeToolTip": "SistemaGestorDeVentas\\api\\auth\\registerView.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAEwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -213,9 +189,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "loginView.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\loginView.cs",
+              "DocumentMoniker": "C:\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\loginView.cs",
               "RelativeDocumentMoniker": "SistemaGestorDeVentas\\api\\auth\\loginView.cs",
               "ToolTip": "E:\\facu\\LSI\\3er a\u00F1o\\Taller de Programacion 2\\Proyecto integrador\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\SistemaGestorDeVentas\\api\\auth\\loginView.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

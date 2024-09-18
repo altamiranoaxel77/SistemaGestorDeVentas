@@ -16,7 +16,7 @@ namespace SistemaGestorDeVentas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new paginaInicio());
+            Application.Run(new Form1());
         }
     }
 }
